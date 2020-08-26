@@ -5,20 +5,21 @@ Simulink models for the distance learning how to video for Simulink deployment t
 
 Watch the [video](https://www.youtube.com/watch?v=57GxzjSaKhA&feature=youtu.be)
 
-### SolarTrackerSimulationModel.slx
+### SolarTrackerSimulationModel.slx 
+Simulink model to simulate a solar tracker controlled by settings read from a ThingSpeak channel.  This model also writes the simulated data to a different ThingSpeak channel.
 ![App Screen Shot](https://github.com/thingspeak/remote-solar-tracker/blob/master/SimModel.png)
 
-Simulink model to simulate a solar tracker controlled by ThingSpeak.  This model writes the simulated data to a different ThingSpeak channel.
+
 
 ### SolarTrackerHardwareModel.slx
+The hardware deployment model, the hardware used here is an Arduino MKR1000
 ![App Screen Shot](https://github.com/thingspeak/remote-solar-tracker/blob/master/HWModel.png)
 
-The hardware deployment model.
 
 ### SolarTrackerVariantSubsystems.slx
+This model contains both the simulation and hardware deployment models, selectable by clicking the desired block at the top level.
 ![App Screen Shot](https://github.com/thingspeak/remote-solar-tracker/blob/master/VariantModel.png)
 
-This model contains both the simulation and hardware deployment models, slectable by clicking the desired block at the top level.
 
 ### Built With
 Simulink
