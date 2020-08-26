@@ -25,7 +25,7 @@ Simulink
 
 ### Authors
 * Christopher Stapels - Hardware deployment model
-* Deepak Bahtia - Simulation and Variant subsystem models
+* Deepak Bhatia - Simulation and Variant subsystem models
 
 ### Resources
 * [ThingSpeak for IoT Projects](https://thingspeak.com)
