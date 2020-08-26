@@ -1,7 +1,7 @@
 # remote-solar-tracker
 Simulink models for the distance learning how to video for Simulink deployment to MKR1000 solar tracker with variant subsystems
 
-###Video
+### Video
 
 Watch the [video](https://www.youtube.com/watch?v=57GxzjSaKhA&feature=youtu.be)
 
