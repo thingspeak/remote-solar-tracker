@@ -2,8 +2,7 @@
 Simulink models for the distance learning how to video for Simulink deployment to MKR1000 solar tracker with variant subsystems
 
 ### Video
-
-Watch the [video](https://www.youtube.com/watch?v=57GxzjSaKhA&feature=youtu.be)
+[![Watch the video](https://img.youtube.com/vi/57GxzjSaKhA/maxresdefault.jpg)](https://www.youtube.com/watch?v=57GxzjSaKhA)
 
 ### SolarTrackerSimulationModel.slx 
 Simulink model to simulate a solar tracker controlled by settings read from a ThingSpeak channel.  This model also writes the simulated data to a different ThingSpeak channel.
